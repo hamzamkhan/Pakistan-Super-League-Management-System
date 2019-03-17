@@ -1,0 +1,49 @@
+Name : Mohammad Hafeez
+Born : July 27, 1980 (Age 36)
+Batting Style : Right Hand
+Bowling Style : Right - Arm Off Break
+Position In Team : Batsman
+Joined : 2016
+			
+			CARRER STATISTICS
+
+MATCHES PLAYED : 
+ODI : 170
+T20I : 65
+Test : 50
+List A : 264
+
+RUNS SCORED :
+ODI : 5156
+T20I : 1399
+Test : 3452
+List A : 8714
+
+Batting Average : 
+ODI : 38.22
+T20I : 23.31
+Test : 39.22
+List A : 34.85
+
+100s/50s : 
+ODI : 11/27
+T20I : 0/7
+Test : 9/12
+List A : 15/54
+
+Top Score : 
+ODI : 140
+T20I : 86
+Test : 224
+List A : 140
+
+Wickets : 
+ODI : 129
+T20I : 46
+Test : 52
+List A : 227
+
+LEAGUE DATA : 
+RUNS : 34
+Wickets : 12
+ 

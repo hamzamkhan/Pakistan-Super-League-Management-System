@@ -1,0 +1,48 @@
+Name : Samuel Badree
+Born : March 9, 1981 (Age 35)
+Batting Style : Right Hand
+Bowling Style : Legbreak
+Position In Team : Bowler
+Joined : 2016
+			
+			CARRER STATISTICS
+
+MATCHES PLAYED : 
+T20I : 32
+First Class Cricket : 12
+List A : 33
+Twenty20 : 148
+
+RUNS SCORED :
+T20I : 28
+First Class Cricket : 323
+List A : 177
+Twenty20 : 140
+
+Batting Average : 
+T20I : 9.33
+First Class Cricket : 17.94
+List A : 9.83
+Twenty20 : 12.72
+
+100s/50s : 
+T20I : 0/0
+First Class Cricket : 0/1
+List A : 0/0
+Twenty20 : 0/0
+
+Top Score : 
+T20I : 14
+First Class Cricket : 55
+List A : 29
+Twenty20 : 29
+
+Wickets : 
+T20I : 5
+First Class Cricket : 3
+List A : 10
+Twenty20 : 17
+
+LEAGUE DATA :
+RUNS : 0
+Wickets : 4

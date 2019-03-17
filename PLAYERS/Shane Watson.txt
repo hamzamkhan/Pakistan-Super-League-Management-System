@@ -1,0 +1,43 @@
+Name : Shane Watson
+Born : June 17,1981 (Age 35)
+Batting Style : Right Hand
+Bowling Style : Right - Arm Medium Fast
+Position In Team : All Rounder
+Joined : 2016
+			
+			CARRER STATISTICS
+
+MATCHES PLAYED : 
+ODI : 190
+T20I : 58
+First Class Cricket : 137
+Test : 59
+
+RUNS SCORED :
+ODI : 5718
+T20I : 1462
+First Class Cricket : 9451
+Test : 3731
+
+
+Batting Average : 
+ODI : 40.54
+T20I : 29.24
+First Class Cricket : 42.57
+Test : 35.20
+
+100s/50s : 
+ODI :9/33
+T20I : 1/10
+First Class Cricket : 20/54
+Test : 4/24
+
+Top Score : 
+ODI : 185
+T20I : 124
+First Class Cricket : 203
+Test : 176
+
+LEAGUE DATA : 
+RUNS : 77
+Wickets : 5 

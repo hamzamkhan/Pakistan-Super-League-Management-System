@@ -1,0 +1,43 @@
+Name : Chris Gayle
+Born : January 26, 1980 (Age 36)
+Batting Style : Right Hand
+Bowling Style : Right - Arm Off Break
+Position In Team : Batsman
+Joined : 2016
+			
+			CARRER STATISTICS
+
+MATCHES PLAYED : 
+ODI : 77
+T20I : 52
+First Class Cricket : 111
+List A : 271
+
+RUNS SCORED :
+ODI : 2247
+T20I : 2922
+First Class Cricket : 6640
+List A : 2816
+
+Batting Average : 
+ODI : 29.40
+T20I : 14.2
+First Class Cricket : 35.31
+List A : 46.16
+
+100s/50s : 
+ODI : 5/6
+T20I : 10/10
+First Class Cricket : 19/11
+List A : 23/23
+
+Top Score : 
+ODI : 124
+T20I : 178
+First Class Cricket : 254
+List A : 204
+
+
+LEAGUE DATA 
+RUNS : 141
+Wickets : 0

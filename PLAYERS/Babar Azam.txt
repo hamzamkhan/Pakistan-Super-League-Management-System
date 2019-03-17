@@ -1,0 +1,42 @@
+Name : Babar Azam
+Born : November 4, 1990 (Age 27)
+Batting Style : Right Hand
+Bowling Style : Right - Arm Off Break
+Position In Team : Batsman
+Joined : 2016
+			
+			CARRER STATISTICS
+
+MATCHES PLAYED : 
+ODI : 18
+T20I : 9
+First Class Cricket : 77
+List A : 100
+
+RUNS SCORED :
+ODI : 232
+T20I : 142
+First Class Cricket : 1233
+List A : 1992
+
+Batting Average : 
+ODI : 31.11
+T20I : 14.89
+First Class Cricket : 33.35
+List A : 49.49
+
+100s/50s : 
+ODI : 0/2
+T20I : 0/0
+First Class Cricket : 11/19
+List A : 11/15
+
+Top Score : 
+ODI : 101
+T20I : 59
+First Class Cricket : 252
+List A : 213
+
+LEAGUE DATA 
+RUNS : 43
+Wickets : 0

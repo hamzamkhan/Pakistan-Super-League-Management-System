@@ -1,0 +1,42 @@
+Name : Azhar Ali
+Born : February 19, 1985 (Age 31)
+Batting Style : Right Hand
+Bowling Style : Leg - Break 
+Position In Team : Batsman
+Joined : 2016
+			
+			CARRER STATISTICS
+
+MATCHES PLAYED : 
+ODI : 42
+Test : 52
+First Class Cricket : 123
+List A : 119
+
+RUNS SCORED :
+ODI : 1588
+Test : 4197
+First Class Cricket : 7419
+List A : 5005
+
+Batting Average : 
+ODI : 40.20
+Test : 46.79
+First Class Cricket : 38.44
+List A : 51.45
+
+100s/50s : 
+ODI : 3/9
+Test : 11/22
+First Class Cricket : 40/53
+List A : 13/26
+
+Top Score : 
+ODI : 102
+Test :302
+First Class Cricket : 302
+List A : 2022
+
+LEAGUE DATA 
+RUNS : 91
+Wickets : 0

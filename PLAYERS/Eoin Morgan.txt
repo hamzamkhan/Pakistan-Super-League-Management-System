@@ -1,0 +1,43 @@
+Name : Alex Hales
+Born : September, 1986 (Age 30)
+Batting Style : Right Hand
+Bowling Style : Right - Arm Medium
+Position In Team : Batsman
+Joined : 2016
+			
+			CARRER STATISTICS
+
+MATCHES PLAYED : 
+ODI : 170
+Test : 16
+First Class Cricket : 93
+List A : 287
+
+RUNS SCORED :
+ODI : 5020
+Test : 700
+First Class Cricket : 4791
+List A : 8370
+
+Batting Average : 
+ODI : 37.18
+Test : 30.43
+First Class Cricket : 34.97
+List A : 37.03
+
+100s/50s : 
+ODI : 8/31
+Test : 2/3
+First Class Cricket : 11/22
+List A : 15/48
+
+Top Score : 
+ODI : 124
+Test : 130
+First Class Cricket : 209
+List A : 161
+
+LEAGUE DATA 
+RUNS : 98
+Wickets : 0
+ 

@@ -1,0 +1,42 @@
+Name : Muhammad Sami 
+Born : February 24, 1981 (Age 35)
+Batting Style : Right Hand
+Bowling Style : Right - Arm Fast
+Position In Team : Bowler
+Joined : 2016
+			
+			CARRER STATISTICS
+
+MATCHES PLAYED : 
+ODI : 87
+Test : 36
+First Class Cricket : 165
+List A : 169
+
+RUNS SCORED :
+ODI : 314
+Test : 487
+First Class Cricket : 3122
+List A : 979
+
+Batting Average : 
+ODI : 11.62
+Test : 11.59
+First Class Cricket : 17.06
+List A : 13.59
+
+100s/50s : 
+ODI :0/0
+Test : 0/1
+First Class Cricket : 0/5
+List A : 0/1
+
+Top Score : 
+ODI : 46
+Test : 49
+First Class Cricket : 77
+List A : 55
+
+LEAGUE DATA : 
+RUNS : 0
+Wickets : 2 

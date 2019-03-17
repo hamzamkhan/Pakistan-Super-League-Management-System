@@ -1,0 +1,43 @@
+Name : Mohammad Amir
+Born : November 19, 1984 (Age 32)
+Batting Style : Right Hand
+Bowling Style : Right - Arm Off Break
+Position In Team : Bowler
+Joined : 2016
+			
+			CARRER STATISTICS
+
+MATCHES PLAYED : 
+ODI : 90
+Test : 18
+First Class Cricket : 110
+List A : 200
+
+RUNS SCORED :
+ODI : 300
+Test : 428
+First Class Cricket : 1600
+List A : 500
+
+Batting Average : 
+ODI : 6.91
+Test : 11.11
+First Class Cricket : 12.31
+List A : 7.25
+
+100s/50s : 
+ODI :0/0
+Test : 0/1
+First Class Cricket : 0/3
+List A : 0/0
+
+Top Score : 
+ODI : 33
+Test : 50
+First Class Cricket : 53
+List A : 33
+
+LEAGUE DATA : 
+RUNS : 21
+Wickets : 0
+ 

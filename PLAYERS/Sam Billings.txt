@@ -1,0 +1,43 @@
+Name : Sam Billings
+Born : June 15, 1991 (Age 25)
+Batting Style : Right Hand
+Bowling Style : N/A
+Position In Team : Wicket Keeper
+Joined : 2016
+			
+			CARRER STATISTICS
+
+MATCHES PLAYED : 
+ODI : 6
+T20I : 7
+First Class Cricket : 45
+List A : 65
+
+RUNS SCORED :
+ODI : 152
+T20I : 99
+First Class Cricket : 1982
+List A : 2146
+
+Batting Average : 
+ODI : 30.40
+T20I : 16.50
+First Class Cricket : 33.03
+List A : 45.65
+
+100s/50s : 
+ODI :0/1
+T20I : 0/1
+First Class Cricket : 3/10
+List A : 5/14
+
+Top Score : 
+ODI : 62
+T20I : 53
+First Class Cricket : 171
+List A : 175
+
+LEAGUE DATA : 
+RUNS : 0
+Wickets : 0
+ 

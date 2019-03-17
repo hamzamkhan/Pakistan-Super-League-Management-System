@@ -1,0 +1,52 @@
+Name : Andre Russell
+Born : April 29, 1988 (Age 28)
+Batting Style : Right Handed
+Bowling Style : Right - Arm Medium Fast
+Position In Team : All Rounder
+Joined : 2016
+			
+			CARRER STATISTICS
+
+MATCHES PLAYED : 
+T20I : 43
+First Class Cricket : 17
+List A : 82
+Tests : 1
+ODIs : 51
+Twenty20 : 227 
+
+RUNS SCORED :
+T20I : 345
+First Class Cricket : 609
+List A : 1633
+Tests : 2
+ODIs : 985
+Twenty20 : 3457
+
+Batting Average : 
+T20I : 14.37
+First Class Cricket : 26.47
+List A : 31.40
+Tests : 2.00
+ODIs : 28.97
+Twenty20 : 24.69
+
+100s/50s : 
+T20I : 0/0
+First Class Cricket : 2/0
+List A : 1/6
+Tests : 0/0
+ODIs : 0/4
+Twenty20 : 1/12
+
+Top Score : 
+T20I : 43
+First Class Cricket : 128
+List A : 132
+Tests : 2
+ODIs : 985
+Twenty20 : 3457
+
+LEAGUE DATA 
+RUNS : 89
+Wickets : 12

@@ -1,0 +1,42 @@
+Name : Tymal Mills
+Born : October 14, 1992 (Age 24)
+Batting Style : Right Hand
+Bowling Style : Right - Arm Off Break
+Position In Team : Bowler
+Joined : 2016
+			
+			CARRER STATISTICS
+
+MATCHES PLAYED : 
+ODI : 98
+Test : 35
+First Class Cricket : 132
+List A : 211
+
+RUNS SCORED :
+ODI : 310
+Test : 413
+First Class Cricket : 1563
+List A : 441
+
+Batting Average : 
+ODI : 7.98
+Test : 10.25
+First Class Cricket : 11.53
+List A : 6.95
+
+100s/50s : 
+ODI :0/0
+Test : 0/1
+First Class Cricket : 0/3
+List A : 0/0
+
+Top Score : 
+ODI : 33
+Test : 50
+First Class Cricket : 53
+List A : 33
+
+LEAGUE DATA : 
+RUNS : 0
+Wickets : 6

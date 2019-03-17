@@ -1,0 +1,43 @@
+Name : Hasan Ali
+Born : February 7, 1994 (Age 22)
+Batting Style : Right Hand
+Bowling Style : Right - Arm Medium Fast
+Position In Team : Bowler
+Joined : 2016
+			
+			CARRER STATISTICS
+
+MATCHES PLAYED : 
+ODI : 110
+Test : 33
+First Class Cricket : 132
+List A : 216
+
+RUNS SCORED :
+ODI : 8
+Test : N/A
+T20I : 3
+
+Batting Average : 
+ODI : 5.00
+Test : N/A
+T20I : N/A
+
+100s/50s : 
+ODI :0/0
+Test : N/A
+T20I : N/A
+
+Top Score : 
+ODI : 9
+Test : N/A
+T20I : N/A
+
+Wickets : 
+ODI : 11
+Test : N/A
+T20I : N/A
+
+LEAGUE DATA 
+RUNS : 0
+Wickets : 0

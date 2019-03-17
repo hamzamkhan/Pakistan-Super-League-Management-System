@@ -1,0 +1,42 @@
+Name : Usman Qadir
+Born : August 10, 1993 (Age 23)
+Batting Style : Left Hand
+Bowling Style : Leg-break
+Position In Team : All Rounder
+Joined : 2016
+			
+			CARRER STATISTICS
+
+MATCHES PLAYED : 
+ODI : 30
+Twenty20 : 13
+First Class Cricket : 8
+List A : 17
+
+RUNS SCORED :
+ODI : 276
+Twenty20 : 88
+First Class Cricket : 198
+List A : 204
+
+Batting Average : 
+ODI : 14.83
+Twenty20 : 14.66
+First Class Cricket : 15.33
+List A : 34.00
+
+100s/50s : 
+ODI :0/0
+Twenty20 : 0/0
+First Class Cricket : 0/1
+List A : 0/1
+
+Top Score : 
+ODI : 52
+Twenty20 : 36
+First Class Cricket : 52
+List A : 57
+
+LEAGUE DATA : 
+RUNS : 0
+Wickets : 0

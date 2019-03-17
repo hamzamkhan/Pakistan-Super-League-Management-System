@@ -1,0 +1,37 @@
+Name : Asif Ali
+Born : October 1,1991 (Age 25)
+Batting Style : Right Handed
+Bowling Style : Right - Arm Medium Fast
+Position In Team : Batsman
+Joined : 2016
+			
+			CARRER STATISTICS
+
+MATCHES PLAYED : 
+T20I :54
+First Class Cricket : 23
+List A : 21
+
+RUNS SCORED :
+T20I : 1138
+First Class Cricket : 735
+List A : 314
+
+Batting Average : 
+T20I : 25.86
+First Class Cricket : 17.92
+List A : 15.70
+
+100s/50s : 
+T20I : 1/5
+First Class Cricket : 0/2
+List A : 0/1
+
+Top Score : 
+T20I : 100
+First Class Cricket : 53
+List A : 56
+
+LEAGUE DATA 
+RUNS : 101
+Wickets : 0
